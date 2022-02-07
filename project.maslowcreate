@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "Bar told me this is cool",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 992176,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9869791666666666,
+            "y": 0.5,
+            "uniqueID": 417124,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
